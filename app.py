@@ -22,7 +22,7 @@ CONFIG_TEMPLATE: dict[str, Any] = {
     "target_channel_id": "",
 }
 
-DEFAULT_ADMIN_ID = 6627762162
+DEFAULT_ADMIN_ID = 6116005605
 
 
 def load_local_env() -> None:
